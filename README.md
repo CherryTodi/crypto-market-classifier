@@ -2,7 +2,7 @@
 
 A Machine Learning project to classify cryptocurrencies into Large Cap, Mid Cap, and Small Cap categories using market data from CoinMarketCap.
 
-![Project Preview](project_image.png)
+
 
 ## Overview
 
