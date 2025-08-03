@@ -21,7 +21,7 @@ This project uses historical cryptocurrency data and applies classification algo
 | `notebook 8.ipynb` | Main Jupyter Notebook |
 | `coinmarketcap_06012018.csv` | Dataset 1 |
 | `coinmarketcap_06122017.csv` | Dataset 2 |
-| `project_image.png` | Preview image of the project output |
+
 
 ---
 
